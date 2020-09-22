@@ -2,7 +2,7 @@ import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 
-import img0 from './img/img0.jpg'
+import img0 from 'https://nlnctck3.tinifycdn.com/img/img0.jpg'
 import img2 from './img/img2.jpg'
 function App() {
   return (
