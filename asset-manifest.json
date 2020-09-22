@@ -1,25 +1,23 @@
 {
   "files": {
     "main.css": "/github-pages-create-react-app/static/css/main.7a4d4a43.chunk.css",
-    "main.js": "/github-pages-create-react-app/static/js/main.ce2cfe73.chunk.js",
-    "main.js.map": "/github-pages-create-react-app/static/js/main.ce2cfe73.chunk.js.map",
+    "main.js": "/github-pages-create-react-app/static/js/main.e41ec90d.chunk.js",
+    "main.js.map": "/github-pages-create-react-app/static/js/main.e41ec90d.chunk.js.map",
     "runtime-main.js": "/github-pages-create-react-app/static/js/runtime-main.2753c1e3.js",
     "runtime-main.js.map": "/github-pages-create-react-app/static/js/runtime-main.2753c1e3.js.map",
-    "static/js/2.b9f0a45c.chunk.js": "/github-pages-create-react-app/static/js/2.b9f0a45c.chunk.js",
-    "static/js/2.b9f0a45c.chunk.js.map": "/github-pages-create-react-app/static/js/2.b9f0a45c.chunk.js.map",
+    "static/js/2.ae2b7d86.chunk.js": "/github-pages-create-react-app/static/js/2.ae2b7d86.chunk.js",
+    "static/js/2.ae2b7d86.chunk.js.map": "/github-pages-create-react-app/static/js/2.ae2b7d86.chunk.js.map",
     "index.html": "/github-pages-create-react-app/index.html",
-    "precache-manifest.1a9be50dab5d5c5927493ddcbfe39e39.js": "/github-pages-create-react-app/precache-manifest.1a9be50dab5d5c5927493ddcbfe39e39.js",
+    "precache-manifest.c237e3c47d5f870ff5b7f5e444c9d1d8.js": "/github-pages-create-react-app/precache-manifest.c237e3c47d5f870ff5b7f5e444c9d1d8.js",
     "service-worker.js": "/github-pages-create-react-app/service-worker.js",
     "static/css/main.7a4d4a43.chunk.css.map": "/github-pages-create-react-app/static/css/main.7a4d4a43.chunk.css.map",
-    "static/js/2.b9f0a45c.chunk.js.LICENSE.txt": "/github-pages-create-react-app/static/js/2.b9f0a45c.chunk.js.LICENSE.txt",
-    "static/media/img0.jpg": "/github-pages-create-react-app/static/media/img0.52205c9b.jpg",
-    "static/media/img2.jpg": "/github-pages-create-react-app/static/media/img2.a4525841.jpg",
+    "static/js/2.ae2b7d86.chunk.js.LICENSE.txt": "/github-pages-create-react-app/static/js/2.ae2b7d86.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/github-pages-create-react-app/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.2753c1e3.js",
-    "static/js/2.b9f0a45c.chunk.js",
+    "static/js/2.ae2b7d86.chunk.js",
     "static/css/main.7a4d4a43.chunk.css",
-    "static/js/main.ce2cfe73.chunk.js"
+    "static/js/main.e41ec90d.chunk.js"
   ]
 }
