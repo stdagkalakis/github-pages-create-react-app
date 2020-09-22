@@ -7,7 +7,7 @@ import img2 from './images/img2.jpg'
 function App() {
   return (
     <div className="App">
-      <img src = {img2} />
+      <img src = "https://nlnctck3.tinifycdn.com/github-pages-create-react-app/static/media/img2.a4525841.jpg" />
     </div>
   );
 }
