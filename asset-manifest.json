@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/github-pages-create-react-app/static/css/main.7a4d4a43.chunk.css",
-    "main.js": "/github-pages-create-react-app/static/js/main.910159e7.chunk.js",
-    "main.js.map": "/github-pages-create-react-app/static/js/main.910159e7.chunk.js.map",
+    "main.js": "/github-pages-create-react-app/static/js/main.10bb90ad.chunk.js",
+    "main.js.map": "/github-pages-create-react-app/static/js/main.10bb90ad.chunk.js.map",
     "runtime-main.js": "/github-pages-create-react-app/static/js/runtime-main.2753c1e3.js",
     "runtime-main.js.map": "/github-pages-create-react-app/static/js/runtime-main.2753c1e3.js.map",
-    "static/js/2.b9f0a45c.chunk.js": "/github-pages-create-react-app/static/js/2.b9f0a45c.chunk.js",
-    "static/js/2.b9f0a45c.chunk.js.map": "/github-pages-create-react-app/static/js/2.b9f0a45c.chunk.js.map",
+    "static/js/2.ae2b7d86.chunk.js": "/github-pages-create-react-app/static/js/2.ae2b7d86.chunk.js",
+    "static/js/2.ae2b7d86.chunk.js.map": "/github-pages-create-react-app/static/js/2.ae2b7d86.chunk.js.map",
     "index.html": "/github-pages-create-react-app/index.html",
-    "precache-manifest.f345df1e18cf868db2405d8412928049.js": "/github-pages-create-react-app/precache-manifest.f345df1e18cf868db2405d8412928049.js",
+    "precache-manifest.a7c8706bf1d7b41c7dff78cba024ae55.js": "/github-pages-create-react-app/precache-manifest.a7c8706bf1d7b41c7dff78cba024ae55.js",
     "service-worker.js": "/github-pages-create-react-app/service-worker.js",
     "static/css/main.7a4d4a43.chunk.css.map": "/github-pages-create-react-app/static/css/main.7a4d4a43.chunk.css.map",
-    "static/js/2.b9f0a45c.chunk.js.LICENSE.txt": "/github-pages-create-react-app/static/js/2.b9f0a45c.chunk.js.LICENSE.txt",
+    "static/js/2.ae2b7d86.chunk.js.LICENSE.txt": "/github-pages-create-react-app/static/js/2.ae2b7d86.chunk.js.LICENSE.txt",
     "static/media/img2.jpg": "/github-pages-create-react-app/static/media/img2.a4525841.jpg",
     "static/media/logo.svg": "/github-pages-create-react-app/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.2753c1e3.js",
-    "static/js/2.b9f0a45c.chunk.js",
+    "static/js/2.ae2b7d86.chunk.js",
     "static/css/main.7a4d4a43.chunk.css",
-    "static/js/main.910159e7.chunk.js"
+    "static/js/main.10bb90ad.chunk.js"
   ]
 }
