@@ -1,23 +1,30 @@
 {
   "files": {
-    "main.css": "/github-pages-create-react-app/static/css/main.5f361e03.chunk.css",
-    "main.js": "/github-pages-create-react-app/static/js/main.b7f92c3f.chunk.js",
-    "main.js.map": "/github-pages-create-react-app/static/js/main.b7f92c3f.chunk.js.map",
+    "main.css": "/github-pages-create-react-app/static/css/main.46e072ff.chunk.css",
+    "main.js": "/github-pages-create-react-app/static/js/main.47dfb92f.chunk.js",
+    "main.js.map": "/github-pages-create-react-app/static/js/main.47dfb92f.chunk.js.map",
     "runtime-main.js": "/github-pages-create-react-app/static/js/runtime-main.2753c1e3.js",
     "runtime-main.js.map": "/github-pages-create-react-app/static/js/runtime-main.2753c1e3.js.map",
-    "static/js/2.b9f0a45c.chunk.js": "/github-pages-create-react-app/static/js/2.b9f0a45c.chunk.js",
-    "static/js/2.b9f0a45c.chunk.js.map": "/github-pages-create-react-app/static/js/2.b9f0a45c.chunk.js.map",
+    "static/css/2.34c0de18.chunk.css": "/github-pages-create-react-app/static/css/2.34c0de18.chunk.css",
+    "static/js/2.40fc491a.chunk.js": "/github-pages-create-react-app/static/js/2.40fc491a.chunk.js",
+    "static/js/2.40fc491a.chunk.js.map": "/github-pages-create-react-app/static/js/2.40fc491a.chunk.js.map",
     "index.html": "/github-pages-create-react-app/index.html",
-    "precache-manifest.33f38b8fd20a6cde274bd253207a77bc.js": "/github-pages-create-react-app/precache-manifest.33f38b8fd20a6cde274bd253207a77bc.js",
+    "precache-manifest.63c13206d8f0e4205a18723d165f4c6e.js": "/github-pages-create-react-app/precache-manifest.63c13206d8f0e4205a18723d165f4c6e.js",
     "service-worker.js": "/github-pages-create-react-app/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/github-pages-create-react-app/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.b9f0a45c.chunk.js.LICENSE.txt": "/github-pages-create-react-app/static/js/2.b9f0a45c.chunk.js.LICENSE.txt",
+    "static/css/2.34c0de18.chunk.css.map": "/github-pages-create-react-app/static/css/2.34c0de18.chunk.css.map",
+    "static/css/main.46e072ff.chunk.css.map": "/github-pages-create-react-app/static/css/main.46e072ff.chunk.css.map",
+    "static/js/2.40fc491a.chunk.js.LICENSE.txt": "/github-pages-create-react-app/static/js/2.40fc491a.chunk.js.LICENSE.txt",
+    "static/media/img0.jpg": "/github-pages-create-react-app/static/media/img0.52205c9b.jpg",
+    "static/media/img1.jpg": "/github-pages-create-react-app/static/media/img1.98b7bdc4.jpg",
+    "static/media/img2.jpg": "/github-pages-create-react-app/static/media/img2.a4525841.jpg",
+    "static/media/img3.jpg": "/github-pages-create-react-app/static/media/img3.0c674636.jpg",
     "static/media/logo.svg": "/github-pages-create-react-app/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.2753c1e3.js",
-    "static/js/2.b9f0a45c.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.b7f92c3f.chunk.js"
+    "static/css/2.34c0de18.chunk.css",
+    "static/js/2.40fc491a.chunk.js",
+    "static/css/main.46e072ff.chunk.css",
+    "static/js/main.47dfb92f.chunk.js"
   ]
 }
