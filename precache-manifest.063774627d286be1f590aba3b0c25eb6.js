@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9c4faf3757d5850dc8b154f0f726078e",
+    "revision": "4f83dc0b257ca7f73dd62effd35d7775",
     "url": "/github-pages-create-react-app/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/github-pages-create-react-app/static/css/2.34c0de18.chunk.css"
   },
   {
-    "revision": "1e1e92f897313797321f",
+    "revision": "1efc41e3547a7b20974a",
     "url": "/github-pages-create-react-app/static/css/main.7a4d4a43.chunk.css"
   },
   {
@@ -20,28 +20,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/github-pages-create-react-app/static/js/2.ecca1dae.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1e1e92f897313797321f",
-    "url": "/github-pages-create-react-app/static/js/main.89993ace.chunk.js"
+    "revision": "1efc41e3547a7b20974a",
+    "url": "/github-pages-create-react-app/static/js/main.963d58ae.chunk.js"
   },
   {
     "revision": "da68a9729d4c495d03af",
     "url": "/github-pages-create-react-app/static/js/runtime-main.2753c1e3.js"
-  },
-  {
-    "revision": "52205c9baac04845204e4284bccc0689",
-    "url": "/github-pages-create-react-app/static/media/img0.52205c9b.jpg"
-  },
-  {
-    "revision": "98b7bdc459cc811eff59aa3fdac75662",
-    "url": "/github-pages-create-react-app/static/media/img1.98b7bdc4.jpg"
-  },
-  {
-    "revision": "a45258418d9bd87d227d3d141e344241",
-    "url": "/github-pages-create-react-app/static/media/img2.a4525841.jpg"
-  },
-  {
-    "revision": "0c6746366643015e8ecb8f066f7d2dcd",
-    "url": "/github-pages-create-react-app/static/media/img3.0c674636.jpg"
   },
   {
     "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",

@@ -1,23 +1,19 @@
 {
   "files": {
     "main.css": "/github-pages-create-react-app/static/css/main.7a4d4a43.chunk.css",
-    "main.js": "/github-pages-create-react-app/static/js/main.89993ace.chunk.js",
-    "main.js.map": "/github-pages-create-react-app/static/js/main.89993ace.chunk.js.map",
+    "main.js": "/github-pages-create-react-app/static/js/main.963d58ae.chunk.js",
+    "main.js.map": "/github-pages-create-react-app/static/js/main.963d58ae.chunk.js.map",
     "runtime-main.js": "/github-pages-create-react-app/static/js/runtime-main.2753c1e3.js",
     "runtime-main.js.map": "/github-pages-create-react-app/static/js/runtime-main.2753c1e3.js.map",
     "static/css/2.34c0de18.chunk.css": "/github-pages-create-react-app/static/css/2.34c0de18.chunk.css",
     "static/js/2.ecca1dae.chunk.js": "/github-pages-create-react-app/static/js/2.ecca1dae.chunk.js",
     "static/js/2.ecca1dae.chunk.js.map": "/github-pages-create-react-app/static/js/2.ecca1dae.chunk.js.map",
     "index.html": "/github-pages-create-react-app/index.html",
-    "precache-manifest.734e43543f0b90bbdf80206c83cf10d6.js": "/github-pages-create-react-app/precache-manifest.734e43543f0b90bbdf80206c83cf10d6.js",
+    "precache-manifest.063774627d286be1f590aba3b0c25eb6.js": "/github-pages-create-react-app/precache-manifest.063774627d286be1f590aba3b0c25eb6.js",
     "service-worker.js": "/github-pages-create-react-app/service-worker.js",
     "static/css/2.34c0de18.chunk.css.map": "/github-pages-create-react-app/static/css/2.34c0de18.chunk.css.map",
     "static/css/main.7a4d4a43.chunk.css.map": "/github-pages-create-react-app/static/css/main.7a4d4a43.chunk.css.map",
     "static/js/2.ecca1dae.chunk.js.LICENSE.txt": "/github-pages-create-react-app/static/js/2.ecca1dae.chunk.js.LICENSE.txt",
-    "static/media/img0.jpg": "/github-pages-create-react-app/static/media/img0.52205c9b.jpg",
-    "static/media/img1.jpg": "/github-pages-create-react-app/static/media/img1.98b7bdc4.jpg",
-    "static/media/img2.jpg": "/github-pages-create-react-app/static/media/img2.a4525841.jpg",
-    "static/media/img3.jpg": "/github-pages-create-react-app/static/media/img3.0c674636.jpg",
     "static/media/logo.svg": "/github-pages-create-react-app/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
@@ -25,6 +21,6 @@
     "static/css/2.34c0de18.chunk.css",
     "static/js/2.ecca1dae.chunk.js",
     "static/css/main.7a4d4a43.chunk.css",
-    "static/js/main.89993ace.chunk.js"
+    "static/js/main.963d58ae.chunk.js"
   ]
 }
